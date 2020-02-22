@@ -1,0 +1,12 @@
+html {
+    background: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.class1 {
+    background: grey;
+    position: fixed;
+    top: 0;
+}   
+
